@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Nayak</h1>
-<h3 align="center">Aspiring Cybersecurity Professional 🌐 | B.Tech CSE Hons. CYBERSEC BLOCKCHAIN 🎓 | Full-Stack Developer ⚙️ | Privacy Advocate 🔒 | Tails OS Enthusiast 🦊 | Dark Web Explorer 🌑 | Crypto Enthusiast 💰 | Mindfulness 🧘</h3>
+<h3 align="center">Aspiring Cybersecurity Professional 🌐 | B.Tech CSE Hons. CYBERSEC BLOCKCHAIN 🎓 | Backend Developer ⚙️ | Privacy Advocate 🔒 | Tails OS Enthusiast 🦊 | Dark Web Explorer 🌑 | Crypto Enthusiast 💰 | Mindfulness 🧘</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayakkrmanish&label=Profile%20views&color=0e75b6&style=flat" alt="nayakkrmanish" /> </p>
 
